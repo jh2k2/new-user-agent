@@ -1,0 +1,25 @@
+{
+  "name": "new-user-agent",
+  "version": "1.0.0",
+  "description": "Rotate between 10,000 different user agents for web scraping and captcha bypass.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install new-user-agent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jh2k2/new-user-agent.git"
+  },
+  "keywords": [
+    "user-agent",
+    "useragent",
+    "webscrape",
+    "fake-header"
+  ],
+  "author": "Jerry Hsieh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jh2k2/new-user-agent/issues"
+  },
+  "homepage": "https://github.com/jh2k2/new-user-agent#readme"
+}
